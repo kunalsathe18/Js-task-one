@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    font-size: 40px;
+    font-weight: 700;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 40px;
+    background-color: blanchedalmond;
+}
+.sub-heading{
+    font-size: 26px;
+    line-height: 40px;
+    padding-top: 30px;
+    text-align: center;
+    margin: 20px 30px 40px 30px;
+}
